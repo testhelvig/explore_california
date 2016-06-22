@@ -1,3 +1,5 @@
 This is the first file exemple for git ! ---I HAVE MODIFIED THIS FILE--HEHE HE I'M THE MASTER
+This is the first file exemple for git ! ---I HAVE MODIFIED THIS FILE----- no way JOSE this is maine sais text edits. 
+
 
 Hey , let see the difference
